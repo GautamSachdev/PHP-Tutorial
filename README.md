@@ -1,6 +1,6 @@
 # PHP-Tutorial
-Learn Tutorial from scratch<br>
-Author:- Gautam Sachdev<br>
+<h1>Learn Tutorial from scratch</h1><br>
+<h4>Author:- Gautam Sachdev</h4><br>
 Learn about bariables<br>
 #1 how to declare variables<br>
 #2 Rules to decalre a variable<br>
